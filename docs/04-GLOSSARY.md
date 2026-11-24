@@ -1,0 +1,43 @@
+# Glossary
+
+Plain words for every term used in the checks.
+
+- **AI (artificial intelligence)**: software that does things that used to need a person, like writing, answering questions, sorting or deciding. Policies define it in their own way, so read the definition (check 8).
+- **Generative AI**: AI that makes new things, like text, pictures, audio, video or code.
+- **Insurance carrier (insurer)**: the company that takes on the risk and pays claims.
+- **Broker (agent)**: the person who helps you buy and manage a policy. Ask them in writing.
+- **Policy**: the contract. It has a declarations page, forms and endorsements.
+- **Declarations page**: the summary page: who is insured, the dates, the limits, the retention.
+- **Form**: a standard page of policy wording. ISO forms have numbers like CG 40 47.
+- **ISO (Insurance Services Office)**: the company, part of Verisk, that writes standard policy forms many insurers use.
+- **Endorsement**: an add-on page that changes the policy. It can add cover, remove cover or change a rule.
+- **Forms schedule (endorsement schedule)**: the list of every form and endorsement on your policy.
+- **Exclusion**: a part of the policy that says what it will not pay for.
+- **Coverage A and Coverage B**: in general liability, A is for injury to other people and damage to their property, B is for personal and advertising injury.
+- **Personal and advertising injury**: harm from things like some claims about what you published or advertised.
+- **General liability (GL, CGL)**: cover for claims by other people that your business hurt them or their property.
+- **Products and completed operations**: cover for harm from a product you sold or work you finished.
+- **Professional liability, errors and omissions (E&O)**: cover for claims that your professional work or advice was wrong.
+- **Cyber policy**: cover for hacking, data breaches and related costs.
+- **D&O (directors and officers)**: cover for company leaders for claims about how they ran the business.
+- **Fiduciary liability**: cover for people who manage employee benefit plans.
+- **EPLI (employment practices liability)**: cover for claims by employees and job applicants, like unfair treatment.
+- **Crime policy**: cover for theft and fraud against your business.
+- **Social engineering**: tricking a person into sending money or data, for example with a fake email from a boss.
+- **Deepfake**: a fake voice, video or image of a real person made with AI.
+- **Commercial property**: cover for physical loss or damage to your buildings and things.
+- **Sublimit**: a smaller cap for one kind of loss, inside the main limit.
+- **Retention (deductible)**: the part of a loss you pay first.
+- **Silent AI**: a policy that neither excludes nor expressly covers AI.
+- **Absolute exclusion**: an exclusion written very broadly, with no exceptions.
+- **Carve back**: an exception that gives some cover back inside an exclusion.
+- **Arising out of**: wording that reaches anything with a causal link to the thing named. Courts often read it broadly, according to one law firm article.
+- **Claims made policy**: covers claims reported while the policy is active, for events after its retroactive date.
+- **Retroactive date**: the earliest date events can have happened for a claims made policy to respond.
+- **Extended reporting period (tail)**: extra time to report claims after a claims made policy ends.
+- **Underwriting**: the insurer's process of deciding whether to cover you and on what terms.
+- **Application**: the form you fill in to get or renew a policy. Your answers can matter later.
+- **Renewal**: the point each year when the policy is renewed, often with changes.
+- **SERFF**: the national system insurers use to file forms and rates with state regulators. SERFF Filing Access is the public search.
+- **AI washing**: saying you use AI in ways you do not. The U.S. Securities and Exchange Commission used the term in 2024.
+- **Hallucination**: when an AI states something false as if it were true.

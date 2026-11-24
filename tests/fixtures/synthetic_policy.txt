@@ -1,0 +1,26 @@
+SAMPLE POLICY TEXT. MADE UP FOR TESTING ONLY. NOT A REAL POLICY.
+Example Mutual Insurance Company (made up)
+Named insured: Sample Bakery LLC (made up)
+
+FORMS AND ENDORSEMENTS SCHEDULE
+CG 00 01 04 13   Commercial general liability coverage form
+CG40 47 01 26    Exclusion for generative artificial intelligence
+CG 40  48        Coverage B only version
+IL 00 17         Common policy conditions
+
+COMMERCIAL GENERAL LIABILITY ENDORSEMENT (sample wording, own words)
+This sample endorsement removes cover for bodily injury and property
+damage that arises out of generative artificial
+intelligence. In this sample, the term means a machine-
+based learning system or model that can create content.
+
+MANAGEMENT LIABILITY ENDORSEMENT (sample wording, own words)
+We will not pay for any Claim based upon, arising out of, or
+attributable to any actual or alleged use, deployment, or development
+of Artificial Intelligence, or in any way involving a hiring tool.
+The sample definition says any machine-based system that, for explicit or
+implicit objectives, infers, from the input it receives, how to produce results.
+
+CRIME POLICY SAMPLE
+Social engineering fraud is covered up to a sublimit shown on the declarations.
+Callback verification is required before a transfer.

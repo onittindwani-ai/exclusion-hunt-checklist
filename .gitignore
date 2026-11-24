@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+policy*.txt
+!tests/fixtures/*.txt
+hits.csv

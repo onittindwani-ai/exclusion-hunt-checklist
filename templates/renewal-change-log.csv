@@ -1,0 +1,3 @@
+date,policy_name,renewal_period,form_added,form_removed,limit_or_sublimit_change,retention_change,ai_question_on_application,who_told_us,next_step
+2026-11-24,SAMPLE Bakery General Liability,2027-01-01 to 2028-01-01,SAMPLE: one new endorsement about generative AI,none,none,none,SAMPLE: new question asking whether we use AI tools,broker email,Ask the broker what the new endorsement changes before we accept
+2026-11-24,SAMPLE Bakery Cyber,2027-01-01 to 2028-01-01,none,none,SAMPLE: social engineering cap changed,none,SAMPLE: same question as last year,broker email,Ask whether the new cap fits the size of our payments

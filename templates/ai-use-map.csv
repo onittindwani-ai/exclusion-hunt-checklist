@@ -1,0 +1,4 @@
+where_used,tool_name,who_uses_it,who_sees_output,person_checks_first,customer_facing,notes
+SAMPLE: marketing emails,SAMPLE Writing Assistant,Sample Marketing Lead,customers,yes,yes,SAMPLE: a person reads every email before it is sent
+SAMPLE: website chatbot,SAMPLE Chatbot Tool,nobody (runs alone),customers,no,yes,SAMPLE: no human check. Ask the broker about this one first
+SAMPLE: meeting notes,SAMPLE Notes Tool,Sample Office Manager,staff only,yes,no,SAMPLE: internal only
